@@ -4,7 +4,6 @@ import { Link } from "react-scroll";
 import NavLink from "./NavLink";
 import MenuOverlay from "./MenuOverlay";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/solid";
-import { Logo } from "./images";
 import Image, { StaticImageData } from "next/image";
 
 const navLinks = [
