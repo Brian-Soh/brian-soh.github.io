@@ -15,11 +15,11 @@ const Contact = () => {
     <section className="pb-8 mb-20" id="contact">
       <div className="text-center">
         <h2 className="mt-10 text-center text-4xl">Let's Stay in Touch!</h2>
-        <p className="my-7 text-xl">Feel free to follow my socials!</p>
+        <p className="my-12 text-xl">Feel free to follow my socials!</p>
         <p style={{color: "red"}} className="font-semibold text-xl">
           brian.soh.cs@gmail.com
         </p>
-        <div className="mt-8 flex justify-center gap-6">
+        <div className="mt-12 flex justify-center gap-6">
             <a
               href="https://www.linkedin.com/in/brian-soh/"
               target="_blank"

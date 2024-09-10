@@ -26,7 +26,7 @@ const Project = ({
       <YoutubeEmbed embedId={video} />
       <h2 className={`text-2xl font-semibold my-4 ${color}`}>{title}</h2>
       <p className="text-xl mb-4 font-semibold ">{language}</p>
-      <p className="text-lg lg:text-xl">{description}</p>
+      <p className="text-lg">{description}</p>
       <a
         href={repo}
         target="_blank"
