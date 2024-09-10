@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const AboutMe = () => {
   return (
-    <section className=" my-28 md:my-32" id="about">
+    <section className="my-28" id="about">
       <div className="grid grid-cols-1 lg:grid-cols-12">
         <div className="col-span-7 place-self-center">
           <h1 className="animated animated-text">
