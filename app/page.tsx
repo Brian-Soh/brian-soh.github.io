@@ -8,7 +8,7 @@ import Footer from "./components/Footer";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col container mx-auto px-12 py-0 lg:px-44">
+    <main className="flex min-h-screen flex-col container mx-auto px-12 py-0 lg:px-44 overscroll-none">
       <AboutMe />
       <MyLanguages />
       <MyProjects />
