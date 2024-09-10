@@ -13,7 +13,7 @@ const projectInfo = [
     hover: "hover:text-green-600"
   },
   {
-    title: "Blackjack Card Counting",
+    title: "Blackjack Card Counting Trainer",
     language: "Java",
     description:
       "An extension of classic Blackjack that provides the user statistics on the true and running count. Employed object-oriented programming in Java to enhance code efficiency and reusability. Implemented a save and load functionality for all objects and game data by writing and parsing JSON files",
