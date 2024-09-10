@@ -9,7 +9,7 @@ interface Props {
   video: string;
   repo: string;
   color: string;
-  hovor: string;
+  hover: string;
 }
 
 const Project = ({
