@@ -22,7 +22,7 @@ const AboutMe = () => {
           </p>
           <div className="grid grid-cols-1 lg:grid-cols-12">
               <a
-                href="https://drive.google.com/file/d/1pnCStWeTBTL6LCFQoKQZ9xwIjyDh4E1t/view?usp=sharing"
+                href="https://drive.google.com/file/d/1DztaBjZfifYLnsUYYXjc9SforOVaConW/view?usp=sharing"
                 target="_blank"
                 rel="noreferrer"
                 className="flex justify-center col-span-6 px-6 py-3 my-2 font-semibold rounded-xl mr-4 bg-white hover:bg-slate-200 hover:text-red-600 text-black"

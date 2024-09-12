@@ -6,7 +6,7 @@ const projectInfo = [
   {
     title: "Greenthread",
     language: "Java, XML, Android Studio, Figma",
-    description: "Initially envisioned in Figma and partially developed in Java during the Hello Hacks Hackathon, I later took the initiative to  bring our idea to life with Android Studio, XML, and Java. Integrated a custom Adapter object to allow for filtered searching. Leveraged the ZXing barcode scanner library to implement a QR code scanner.",
+    description: "Initially envisioned in Figma and partially developed in Java during the Hello Hacks Hackathon. I later took the initiative to  bring our idea to life with Android Studio, XML, and Java. Integrated a custom Adapter object to allow for filtered searching. Leveraged the ZXing barcode scanner library to implement a QR code scanner.",
     video: "e6GuBbAyd2o?si=sitKWmwp6YMSXFZS",
     repo: "https://github.com/Brian-Soh/Greenthread",
     color: "text-green-600",
