@@ -3,6 +3,16 @@ import Project from "./Project";
 import { describe } from "node:test";
 
 const projectInfo = [
+
+  {
+    title: "Tetris",
+    language: "C++, Raylib",
+    description: "A Tetris remake that implements the fundamentals of C++ such as encapsulation and memory management. Developed multiple algorithms handle board generation, saving/swapping blocks and future path generation. Leveraged the Raylib library to develop a dynamic, intuitive user intergface.",
+    video: "T6r2ouMACZk?si=Fn4rXkgp13uRT3s2",
+    repo: "https://github.com/Brian-Soh/Tetris",
+    color: "text-purple-600",
+    hover: "hover:text-purple-600"
+  },
   {
     title: "Greenthread",
     language: "Java, XML, Android Studio, Figma",
@@ -16,7 +26,7 @@ const projectInfo = [
     title: "Blackjack Card Counting Trainer",
     language: "Java",
     description:
-      "An extension of classic Blackjack that provides the user statistics on the true and running count. Employed object-oriented programming in Java to enhance code efficiency and reusability. Implemented a save and load functionality for all objects and game data by writing and parsing JSON files",
+      "An extension of classic Blackjack that provides the user statistics on the true and running count. Employed object-oriented programming in Java to enhance code efficiency and reusability. Implemented a save and load functionality for all objects and game data by writing and parsing JSON files.",
     video: "wsBcOIIEG-8?si=0BSfqTlkjE8VZy8N",
     repo: "https://github.com/Brian-Soh/Blackjack-Card-Counting-Trainer",
     color: "text-red-600",
@@ -26,22 +36,22 @@ const projectInfo = [
     title: "Space Invaders",
     language: "Dr. Racket",
     description:
-      "A Space Invaders remake that manages real-time user input, translating key presses and mouse clicks into game actions. Integrated multiple algorithms such as alien movement and bullet collision detection.",
+      "A Space Invaders remake that manages real-time user input, translating key presses and mouse clicks into game actions. Integrated multiple algorithms such as alien movement and bullet collision detection. Developed custom data definitions, and leveraged local and abstract functions for reusability.",
     video: "4jL1b_ZDG-s?si=-ImTFhnfwc-ogmrH",
     repo: "https://github.com/Brian-Soh/Space-Invaders",
     color: "text-blue-600",
     hover: "hover:text-blue-600"
 
   },
-  {
-    title: "Under Construction...",
-    language: "Coming Soon!",
-    description: "Stay tuned for my upcoming projects! Currently learning C/C++ in my courses.",
-    video: "92r-Gm8XpsI?si=YjRGqW8anMSwhztn",
-    repo: "https://github.com/Brian-Soh",
-    color: "text-white",
-    hover: "hover:text-white"
-  }
+  // {
+  //   title: "Under Construction...",
+  //   language: "Coming Soon!",
+  //   description: "Stay tuned for my upcoming projects! Currently learning C/C++ in my courses.",
+  //   video: "92r-Gm8XpsI?si=YjRGqW8anMSwhztn",
+  //   repo: "https://github.com/Brian-Soh",
+  //   color: "text-white",
+  //   hover: "hover:text-white"
+  // }
 ];
 
 const MyProjects = () => {

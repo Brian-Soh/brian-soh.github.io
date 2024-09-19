@@ -2,6 +2,7 @@
 import React from "react";
 import {
   CSSLogo,
+  CppLogo,
   HTMLLogo,
   JavaLogo,
   JavaScriptLogo,
@@ -20,9 +21,14 @@ const Languages = [
     duration: 3,
   },
   {
+    image: CppLogo,
+    duration: 4,
+  },
+  {
     image: JavaLogo,
     duration: 5,
   },
+  
   {
     image: ReactLogo,
     duration: 4,
