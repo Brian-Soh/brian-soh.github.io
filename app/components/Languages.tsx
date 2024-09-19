@@ -22,7 +22,7 @@ const Languages = [
   },
   {
     image: CppLogo,
-    duration: 4,
+    duration: 2,
   },
   {
     image: JavaLogo,
@@ -59,7 +59,7 @@ const MyLanguages = () => {
   return (
     <section className="pb-8 mb-28 md:mb-40" id="languages">
       <h2 className="mt-10 mb-28 md:mb-40 text-center text-4xl">Languages</h2>
-      <div className="flex flex-wrap items-center justify-center gap-4">
+      <div className="flex flex-wrap items-center justify-center gap-4 md:w-9/12 mx-auto">
         {Languages.map((language, index) => (
           <Logo key={index} image={language.image} duration={language.duration}/>
         ))}
