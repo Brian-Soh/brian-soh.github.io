@@ -7,7 +7,7 @@ const projectInfo = [
   {
     title: "Tetris",
     language: "C++, Raylib",
-    description: "A Tetris remake that implements the fundamentals of C++ such as encapsulation and memory management. Developed multiple algorithms to handle board generation, saving/swapping blocks and future path generation. Leveraged the Raylib library to develop a dynamic, intuitive user intergface.",
+    description: "A Tetris remake that implements the fundamentals of C++ such as encapsulation and memory management. Developed multiple algorithms to handle board generation, saving/swapping blocks and future path generation. Leveraged the Raylib library to develop a dynamic, intuitive user interface.",
     video: "T6r2ouMACZk?si=Fn4rXkgp13uRT3s2",
     repo: "https://github.com/Brian-Soh/Tetris",
     color: "text-purple-600",
